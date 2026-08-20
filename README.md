@@ -7,10 +7,8 @@
 <p align="center">
   Building modern web experiences, exploring new technologies, and turning ideas into real-world projects.
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sahan8/sahan8/output/github-contribution-grid-snake.svg" />
-</p>
-## 👨‍💻 About Me
+
+ 👨‍💻 About Me
 
 - 🎓 Software Engineering Undergraduate
 - 💻 Interested in Full-Stack Web Development
@@ -83,8 +81,6 @@ A student productivity platform featuring academic planning tools, GPA/CGPA calc
 <p align="center">
   <img src="https://raw.githubusercontent.com/sahan8/sahan8/output/github-contribution-grid-snake.svg" />
 </p>
-
----
 
 ## 🤝 Connect With Me
 
