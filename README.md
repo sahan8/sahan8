@@ -26,7 +26,7 @@ Software Engineering Undergraduate | Full-Stack Developer | UI/UX Enthusiast
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,java,python" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,dart" />
 </p>
 
 ### Frontend
@@ -38,7 +38,7 @@ Software Engineering Undergraduate | Full-Stack Developer | UI/UX Enthusiast
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### Tools & Design
