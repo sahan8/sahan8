@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sahan</h1>
 
-<h3 align="center">
-Software Engineering Undergraduate | Full-Stack Developer | UI/UX Enthusiast
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;React+%26+MERN+Stack+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 
 <p align="center">
   Building modern web experiences, exploring new technologies, and turning ideas into real-world projects.
 </p>
-
----
 
 ## 👨‍💻 About Me
 
