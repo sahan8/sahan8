@@ -1,14 +1,4 @@
-I found the problem: the **workflow is working**, but your current `README.md` does **not actually contain the image tags anymore**. Your profile currently shows the section headings like **Tech Stack**, **GitHub Stats**, **GitHub Streak**, and **Contribution Activity**, but the icon/stat/snake image lines are missing from the README. ([GitHub][1])
 
-So don’t change the workflow. Fix the README.
-
-Open:
-
-**`sahan8/sahan8` → `README.md` → Edit**
-
-Then replace the entire README with this version:
-
-```markdown
 <h1 align="center">Hi 👋, I'm Sahan</h1>
 
 <p align="center">
@@ -21,7 +11,7 @@ Then replace the entire README with this version:
 
 ---
 
-## 👨‍💻 About Me
+ 👨‍💻 About Me
 
 - 🎓 Software Engineering Undergraduate
 - 💻 Interested in Full-Stack Web Development
