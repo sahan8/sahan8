@@ -62,23 +62,7 @@ A student productivity platform featuring academic planning tools, GPA/CGPA calc
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=sahan8&show_icons=true&hide_border=true&theme=github_dark"
-    alt="Sahan GitHub Stats"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahan8&layout=compact&hide_border=true&theme=github_dark"
-    alt="Top Languages"
-  />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -89,28 +73,6 @@ A student productivity platform featuring academic planning tools, GPA/CGPA calc
   />
 </p>
 
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/sahan8/sahan8/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/sahan8/sahan8/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/sahan8/sahan8/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
-
----
 
 ## 🤝 Connect With Me
 
