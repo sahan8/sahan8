@@ -1,6 +1,6 @@
-# `<SAHAN />`
+ `<SAHAN />`
 
-### Full-Stack Developer / Interactive Frontend Developer
+Full-Stack Developer 
 
 I build complete web applications with a strong focus on responsive, interactive, and polished frontend experiences. I care about solid application logic and software that feels clear and enjoyable to use.
 
